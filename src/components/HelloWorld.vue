@@ -22,7 +22,7 @@
 
 <script>
   export default {
-    name: '这是一个冲突',
+    name: 'HelloWorldHuangxueqin',
     data() {
       return {
         msg: 'master'
