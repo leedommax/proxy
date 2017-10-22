@@ -5,8 +5,13 @@ import App from './App'
 import VueResource  from 'vue-resource'
 Vue.use(VueResource)
 Vue.config.productionTip = false
-alert(3)
-console.log(3)
+alert(5)
+console.log(5)
+var objparam = {
+  name : "zhangsan",
+  a : 1,
+  b : [1,2,3,4,5,6]
+}
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
