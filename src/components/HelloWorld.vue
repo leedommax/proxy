@@ -25,7 +25,7 @@
     name: 'HelloWorldHuangxueqin',
     data() {
       return {
-        msg: 'Welcome to Your Vue.js App'
+        msg: 'gittest-local'
       }
     },
     mounted() {
