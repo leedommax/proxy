@@ -5,8 +5,8 @@ import App from './App'
 import VueResource  from 'vue-resource'
 Vue.use(VueResource)
 Vue.config.productionTip = false
-alert(3)
-console.log(3)
+alert(2)
+console.log(6)
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
