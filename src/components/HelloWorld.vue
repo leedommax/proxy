@@ -25,7 +25,7 @@
     name: '这是一个冲突',
     data() {
       return {
-        msg: 'Welcome to Your Vue.js App'
+        msg: 'master'
       }
     },
     mounted() {
