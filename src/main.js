@@ -5,8 +5,8 @@ import App from './App'
 import VueResource  from 'vue-resource'
 Vue.use(VueResource)
 Vue.config.productionTip = false
-alert(5)
-console.log(5)
+alert(9)
+console.log(3)
 var objparam = {
   name : "zhangsan",
   a : 1,
