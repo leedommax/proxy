@@ -25,7 +25,7 @@
     name: 'HelloWorldHuangxueqin',
     data() {
       return {
-        msg: 'Welcome to Your Vue.js App'
+        msg: 'Welcome to Your Vue.js App，记得记得回到家后点击活动，gittest-local，master'
       }
     },
     mounted() {
@@ -60,4 +60,6 @@
   a {
     color: #42b983;
   }
+  .fl { float: left; }
+  .fr { float: right; }
 </style>
